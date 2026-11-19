@@ -30,6 +30,16 @@ My open-source packages have **750k+ NuGet downloads**, and my IDE extensions ha
 
 More in [Raffinert](https://github.com/Raffinert): source generators for embedded resources, projections, type-level presets and specifications.
 
+#### 🤝 Open-source contributions
+
+**[Open on GitHub](https://github.com/neuecc/Open-on-GitHub)**: Visual Studio extension by [neuecc](https://github.com/neuecc) for opening files on GitHub, GitLab, Gitea, Bitbucket and Azure DevOps. [![VS](https://vsmarketplacebadges.dev/installs-short/neuecc.OpenonGitHub.svg?label=VS&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=neuecc.OpenonGitHub)
+
+**#2 contributor** (50+ commits, 7 merged PRs):
+
+- Added support for multiple Git hosts (Gitea, Bitbucket, Azure DevOps) and GitHub Enterprise
+- Added **Source Link** support, so files from NuGet packages and other external assemblies open at their exact source revision
+- Replaced LibGit2Sharp with GitReader, an async rewrite that removed native dependencies and fixed slow repository reads
+
 ---
 
 #### 📫 Find me
