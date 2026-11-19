@@ -1,6 +1,6 @@
 ### Hi, I'm Yevhen 👋
 
-Senior .NET engineer at [Rydoo](https://www.rydoo.com), based in Kristiansand, Norway 🇳🇴🇺🇦.
+Senior .NET engineer at [Rydoo](https://www.rydoo.com), based in Kristiansand, Norway.
 20 years of C#. I build high-performance backend systems by day and developer tooling for .NET developers the rest of the time.
 
 **Focus:** C# · .NET · EF Core · Roslyn source generators & analyzers · Visual Studio / VS Code / Rider extensions · Azure · Kafka · SQL Server · performance engineering
