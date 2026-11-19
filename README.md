@@ -25,10 +25,10 @@ My open-source packages have **750k+ NuGet downloads**, and my IDE extensions ha
 | [**FuzzySharp**](https://github.com/Raffinert/FuzzySharp) | High-performance fuzzy string matching (bit-parallel Levenshtein, FuzzyWuzzy-compatible) | [![NuGet](https://img.shields.io/nuget/dt/Raffinert.FuzzySharp?label=downloads&style=flat-square)](https://www.nuget.org/packages/Raffinert.FuzzySharp) |
 | [**Multi-schema Avro deserializer**](https://github.com/ycherkes/multi-schema-avro-deserializer) | Read Kafka messages serialized with multiple Avro schemas (Confluent Schema Registry) | [![NuGet](https://img.shields.io/nuget/dt/YCherkes.SchemaRegistry.Serdes.Avro?label=downloads&style=flat-square)](https://www.nuget.org/packages/YCherkes.SchemaRegistry.Serdes.Avro) |
 | [**AlephMapper**](https://github.com/Raffinert/AlephMapper) | Source generator for explicit mapping: write it once, reuse it in memory, in EF Core projections and in updates | [![NuGet](https://img.shields.io/nuget/dt/AlephMapper?label=downloads&style=flat-square)](https://www.nuget.org/packages/AlephMapper) |
-| [**Raffinert.Spec**](https://github.com/Raffinert/Raffinert.Spec) | Composable specifications for reusable EF Core query logic | [![NuGet](https://img.shields.io/nuget/dt/Raffinert.Spec?label=downloads&style=flat-square)](https://www.nuget.org/packages/Raffinert.Spec) |
+| [**Raffinert.Expressions**](https://github.com/Raffinert/Expressions) | Compose and reuse strongly typed predicates and projections in LINQ and EF Core queries, with nested expressions expanded for SQL translation | [![EF Core docs](https://img.shields.io/badge/listed%20in-EF%20Core%20docs-512BD4?style=flat-square&logo=dotnet)](https://learn.microsoft.com/en-us/ef/core/extensions/#raffinertexpressionsentityframeworkcore) [![NuGet](https://img.shields.io/nuget/dt/Raffinert.Expressions?label=downloads&style=flat-square)](https://www.nuget.org/packages/Raffinert.Expressions.EntityFrameworkCore) |
 | [**OrcaSql**](https://github.com/ycherkes/OrcaSql) | Read tables, metadata and indexes straight from SQL Server MDF files, without a running server | |
 
-More in [Raffinert](https://github.com/Raffinert): source generators for embedded resources, projections, type-level presets and LINQ expressions.
+More in [Raffinert](https://github.com/Raffinert): source generators for embedded resources, projections, type-level presets and specifications.
 
 ---
 
