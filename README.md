@@ -44,6 +44,6 @@ More in [Raffinert](https://github.com/Raffinert): source generators for embedde
 
 #### 📫 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yevhen%20Cherkes-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yevhen-cherkes-68291771/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yevhen%20Cherkes-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yevhen-cherkes/)
 [![VS Marketplace](https://img.shields.io/badge/VS%20Marketplace-YevhenCherkes-5C2D91?style=flat-square&logo=visualstudio)](https://marketplace.visualstudio.com/publishers/YevhenCherkes)
 [![NuGet](https://img.shields.io/badge/NuGet-YevhenCherkes-004880?style=flat-square&logo=nuget)](https://www.nuget.org/profiles/YevhenCherkes)
